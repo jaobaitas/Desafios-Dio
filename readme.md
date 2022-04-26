@@ -1,5 +1,3 @@
 # Desafios da plataforma DIO
-<ul>
-  <li>Comandos básicos do git<li>
-  <li>Recriando Interface da Netflix utilizando HTML, CSS e plugin do Jquery.<li>
-</ul>
+- Comandos básicos do git e github
+- Recriando interface da Netflix utilizando HTML, CSS e plugin do Jquery.
